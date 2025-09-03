@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ayesh</h1>
-<h3 align="center">Software Engineer | Python Expert | Tech Enthusiast</h3>
+<h3 align="center">Data Engineer | Python Expert | Tech Enthusiast</h3>
 
 <!-- About Me -->
 <p align="center">
