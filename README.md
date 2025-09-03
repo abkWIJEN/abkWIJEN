@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!-- About Me -->
 <p align="center">
-🌍 Based in Naperville <br>
-💼 Working at <b>GE Healthcare</b> as a <b>Software Engineer</b><br>
-💻 Passionate about <b>Python, Data Engineering, Web Development</b><br>
+🌍 Based in USA <br>
+💼 Working at <b>GE Healthcare</b> as a <b>Consultant Data Engineer</b><br>
+💻 Passionate about <b>Python, Data Engineering, AI, Web Development</b><br>
 📚 Constant Learner | 🚀 Open Source Contributor | 🎯 Tech Mentor
 </p>
 
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases & Cloud**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,7 +49,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -60,18 +57,9 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayeshpyth&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshpyth&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-<!-- Featured Projects -->
-## 🌟 Featured Projects
-
-- 🔗 [**Project 1**](https://github.com/YOUR_USERNAME/PROJECT_1) — Brief description about project 1  
-- 🔗 [**Project 2**](https://github.com/YOUR_USERNAME/PROJECT_2) — Brief description about project 2  
-- 🔗 [**Project 3**](https://github.com/YOUR_USERNAME/PROJECT_3) — Brief description about project 3  
 
 ---
 
@@ -79,15 +67,13 @@ Here are some ideas to get you started:
 ## 🌐 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ayeshpyth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ayeshpyth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <!-- Fun GIF / Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/YOUR_FAVORITE_GIF_LINK/giphy.gif" width="400" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lmc3dremhpMnJndmN3YmdkczZhYmZmbXZxZzM3N3RodzE1eWkxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="400" />
 </p>
