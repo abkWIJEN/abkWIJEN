@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Ayesh</h1>
+<h1 align="center">Hi 👋, I'm Ayesh Kan Wijen</h1>
 <h3 align="center">Data Engineer | Python Expert | Tech Enthusiast</h3>
 
 <!-- About Me -->
