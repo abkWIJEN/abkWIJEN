@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayeshpyth&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshpyth&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=abkWIJEN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abkWIJEN&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
