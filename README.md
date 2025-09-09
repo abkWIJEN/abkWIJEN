@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Ayesh Kan Wijen</h1>
-<h3 align="center">Data Engineer | Python Expert | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm WIJEN ABK</h1>
+<h3 align="center">Data Engineer | Python Expert/Dev | Tech Enthusiast</h3>
 
 <!-- About Me -->
 <p align="center">
